@@ -1,0 +1,15 @@
+.mahalo {
+  font-size: max(2em, 11vw);
+  font-family: fantasy;
+  font-family: sans-serif;
+}
+
+.vessel {
+  margin: auto;
+  overflow-wrap: anywhere;
+  padding: 1ex;
+}
+
+.aloha {
+  margin: 0;
+}
